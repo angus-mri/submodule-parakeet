@@ -1,0 +1,3 @@
+[submodule "shared-submodule"]
+	path = shared-submodule
+	url = https://github.com/angus-mri/turbo-parakeet
